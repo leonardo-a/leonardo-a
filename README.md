@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi, I'm Leo!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20" >
 
-<!--
-**leonardo-a/leonardo-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ **About me:**
+ - 💻 I'm Web Developer in 2020;
+ - ⚛️ TypeScript | Node.Js | React
+ - ✨ Always trying to learn more and help the others;
+ - 🚀 Currently Learning: Next.Js, React Native
 
-Here are some ideas to get you started:
+#### 💬 You can find me in: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/leonardo-leal-antao/)](www.linkedin.com/in/leonardo-leal-antao/) 
+[![Gmail Badge](https://img.shields.io/badge/-leolealantao@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leolealantao@gmail.com)](mailto:leolealantao@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.linkedin.com/in/leonardo-leal-antao/)](https://www.instagram.com/la_leonardoo/)
