@@ -8,6 +8,6 @@
 
 #### 💬 You can find me in: 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/leonardo-leal-antao/)](www.linkedin.com/in/leonardo-leal-antao/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-leal-antao/)](https://www.linkedin.com/in/leonardo-leal-antao/) 
 [![Gmail Badge](https://img.shields.io/badge/-leolealantao@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leolealantao@gmail.com)](mailto:leolealantao@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.linkedin.com/in/leonardo-leal-antao/)](https://www.instagram.com/la_leonardoo/)
