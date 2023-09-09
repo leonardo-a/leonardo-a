@@ -2,7 +2,7 @@
 
  **About me:**
  
- - 💻 I'm Web Developer in 2020;
+ - 💻 I'm a Web Developer since 2020;
  - 🔥 Passionate about technology, I want to use my knowledge to make a difference trough programming;
  - ⚛️ TypeScript | Node.Js | React
  - ✨ Always trying to learn more and help the others;
