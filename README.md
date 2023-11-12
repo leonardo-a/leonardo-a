@@ -4,9 +4,9 @@
  
  - 💻 I'm a Web Developer since 2020;
  - 🔥 Passionate about technology, I want to use my knowledge to make a difference trough programming;
- - ⚛️ TypeScript | Node.Js | React
+ - ⚛️ TypeScript | Node.Js | React Native
  - ✨ Always trying to learn more and help the others;
- - 🚀 Currently Learning: Next.Js, React Native
+ - 🚀 Currently Learning: React Native
  
 #### 💬 You can find me in: 
 
