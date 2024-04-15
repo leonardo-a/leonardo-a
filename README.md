@@ -6,7 +6,7 @@
  - 🔥 Passionate about technology, I want to use my knowledge to make a difference trough programming;
  - ⚛️ TypeScript | Node.Js | React Native
  - ✨ Always trying to learn more and help the others;
- - 🚀 Currently Learning: React
+ - 🚀 Currently Studying: NodeJS
  
 #### 💬 You can find me in: 
 
