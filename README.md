@@ -17,7 +17,7 @@
 ```yaml
 name:     Leonardo Leal
 role:     Web Developer
-company:  Hollow Studio (Founder)
+company:  Hollow Studio BR (Founder)
 since:    2020
 location: Brazil 🇧🇷
 
